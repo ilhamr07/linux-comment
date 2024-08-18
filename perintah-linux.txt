@@ -6,5 +6,7 @@ mencari file
 mencari text pada file
     - grep Hallo "*.txt"
 
-
+notasi append (>>)
+    - echo "kata pertama" > surat
+      echo "kata kedua" >> surat
 
