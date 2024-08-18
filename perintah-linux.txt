@@ -1,3 +1,8 @@
+menginstall
+
+    sudo dpkg -i nama-aplikasi.deb
+    sudo apt-get install -f #untuk menyelesaikan depedensi
+
 mencari file
     - find /home -name "*.txt" -print > myerror.txt
     - which ls
