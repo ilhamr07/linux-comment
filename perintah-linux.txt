@@ -1,0 +1,10 @@
+mencari file
+    - find /home -name "*.txt" -print > myerror.txt
+    - which ls
+    - locate "*.txt"
+
+mencari text pada file
+    - grep Hallo "*.txt"
+
+
+
